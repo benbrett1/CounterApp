@@ -1,13 +1,13 @@
 {
-  "main.css": "/counterapp/static/css/main.ecd7a725.chunk.css",
-  "main.js": "/counterapp/static/js/main.dd214726.chunk.js",
-  "main.js.map": "/counterapp/static/js/main.dd214726.chunk.js.map",
-  "static/js/1.49a92616.chunk.js": "/counterapp/static/js/1.49a92616.chunk.js",
-  "static/js/1.49a92616.chunk.js.map": "/counterapp/static/js/1.49a92616.chunk.js.map",
-  "runtime~main.js": "/counterapp/static/js/runtime~main.539e9fda.js",
-  "runtime~main.js.map": "/counterapp/static/js/runtime~main.539e9fda.js.map",
-  "static/css/main.ecd7a725.chunk.css.map": "/counterapp/static/css/main.ecd7a725.chunk.css.map",
-  "index.html": "/counterapp/index.html",
-  "precache-manifest.37da022988f406586544f1842117ecc8.js": "/counterapp/precache-manifest.37da022988f406586544f1842117ecc8.js",
-  "service-worker.js": "/counterapp/service-worker.js"
+  "main.css": "/CounterApp/static/css/main.ecd7a725.chunk.css",
+  "main.js": "/CounterApp/static/js/main.dd214726.chunk.js",
+  "main.js.map": "/CounterApp/static/js/main.dd214726.chunk.js.map",
+  "static/js/1.49a92616.chunk.js": "/CounterApp/static/js/1.49a92616.chunk.js",
+  "static/js/1.49a92616.chunk.js.map": "/CounterApp/static/js/1.49a92616.chunk.js.map",
+  "runtime~main.js": "/CounterApp/static/js/runtime~main.76902e4c.js",
+  "runtime~main.js.map": "/CounterApp/static/js/runtime~main.76902e4c.js.map",
+  "static/css/main.ecd7a725.chunk.css.map": "/CounterApp/static/css/main.ecd7a725.chunk.css.map",
+  "index.html": "/CounterApp/index.html",
+  "precache-manifest.d1576da04bef6d8308358728433273a4.js": "/CounterApp/precache-manifest.d1576da04bef6d8308358728433273a4.js",
+  "service-worker.js": "/CounterApp/service-worker.js"
 }
